@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5c70e2940b52884db29859bc63969a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heroObject: {instanceID: 0}
+  - villagerObject: {instanceID: 0}
+  - zombiObject: {instanceID: 0}
+  - zombieP: {fileID: 1300611964618398, guid: 0584839bceadb844fa31b1ca352056ba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
